@@ -1,7 +1,7 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 # 💫 Hi, I am İbrahim Tekin
-🔭I'm currently working on game development<br>🌱 I’m currently learning Unity<br>💬 Ask me about : ibrahimtekinq@gmail.com<br>
+🔭I'm currently working on game development<br>🌱 I’m currently learning Unity<br> 💼 Any freelance work? Please do reach via [email](mailto:ibrahimtekinq@gmail.com).
 
 [![](https://visitcount.itsvg.in/api?id=Tekinq&icon=2&color=10)](https://visitcount.itsvg.in)
   <img align="right" alt="GIF" src="https://github.com/osandadeshan/osandadeshan/blob/master/code.gif?raw=true" width="500" height="320" />
