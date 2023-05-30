@@ -4,7 +4,7 @@
 🔭I'm currently working on game development<br>🌱 I’m currently learning Unity<br>💬 Ask me about : ibrahimtekinq@gmail.com<br>
 
 [![](https://visitcount.itsvg.in/api?id=Tekinq&icon=2&color=10)](https://visitcount.itsvg.in)
-
+  <img align="right" alt="GIF" src="https://github.com/osandadeshan/osandadeshan/blob/master/code.gif?raw=true" width="500" height="320" />
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ibrahimtekinq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahimtekinq) 
 
